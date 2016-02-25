@@ -1,0 +1,1 @@
+E:\VirtulaEnvs\alex_rental\Scripts\python.exe rental_scraper.py
